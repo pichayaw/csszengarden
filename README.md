@@ -1,8 +1,8 @@
 # CSS Zen Garden: The Beauty of CSS Design
 
-> [Your name]
+> [Pichaya Wongchana]
 >  
-> [Your ID]
+> [6210400728]
 
 ## Task
 
