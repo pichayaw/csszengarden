@@ -73,12 +73,11 @@ header {
     position: absolute;
     top: 760px;
     height: 180px;
+    width: 1030px;
     padding: 50px 300px 100px 100px;
     p{
         line-height: 30px;
         font-size: 1.2em;
-        position: relative;
-        top: -200px;
     }
     
     h3{
@@ -86,9 +85,9 @@ header {
         letter-spacing: 1.5px;
         font-size: 2em;
         writing-mode: vertical-rl;
-        position: relative;
-        left:1040px;
-        top: 30px;
+        position: absolute;
+        left:1200px;
+        top: 50px;
         text-shadow: 4px 4px rgb(56, 55, 55);
     }
 }
@@ -271,15 +270,7 @@ footer{
         padding-bottom: 12px;
         text-align: left;
         background-color: rgb(187, 55, 77);
-        color: white;
+        color: rgb(255, 255, 255);
         text-decoration: none;
     }
 }
-
-
-    
-
-
-
-
-

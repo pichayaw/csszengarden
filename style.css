@@ -72,22 +72,21 @@ header h2 {
   position: absolute;
   top: 760px;
   height: 180px;
+  width: 1030px;
   padding: 50px 300px 100px 100px;
 }
 .explanation p {
   line-height: 30px;
   font-size: 1.2em;
-  position: relative;
-  top: -200px;
 }
 .explanation h3 {
   text-transform: uppercase;
   letter-spacing: 1.5px;
   font-size: 2em;
   writing-mode: vertical-rl;
-  position: relative;
-  left: 1040px;
-  top: 30px;
+  position: absolute;
+  left: 1200px;
+  top: 50px;
   text-shadow: 4px 4px #383737;
 }
 
