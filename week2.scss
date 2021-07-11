@@ -2,6 +2,10 @@ $font-stack: Helvetica, sans-serif;
 body{
     font:100% $font-stack;
 }
+.page-wrapper{
+    width: 1424px;
+    height: 2900px;
+}
 header {
     background-image: url("image/header.jpg");
     background-size: 100% 100%;
